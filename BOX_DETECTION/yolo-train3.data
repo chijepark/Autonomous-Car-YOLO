@@ -1,0 +1,5 @@
+classes=1
+train=BOX_DETECTION/train.txt
+valid=BOX_DETECTION/test.txt
+names=BOX_DETECTION/yolo-train3.names
+backup=BOX_DETECTION/
